@@ -1,0 +1,17 @@
+Exploring ChatGPT:
+- what is chatGPT (AI tool, model search with tokens)
+- chatGPT integration with vscode (chatgpt extention, generate API key for security)
+- 
+
+Azure Function
+
+-Azure functions will let you run your code in serverless environment
+-we can run azure functions on various events or triggers
+on http request, on schedule timer
+
+-AzureFunctionApp : Will fecilate the execution of Azure Functions.We can use azure functions as logical unit 
+           for easier management and deployment.
+
+-Azure function using Visual Studio
+
+

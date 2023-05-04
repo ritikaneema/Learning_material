@@ -1,0 +1,30 @@
+Git and GitHub
+
+#Difference
+Git :Git is a distributed version control system for tracking changes in source code during software development.
+GitHub :GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control.
+
+Git commands-
+Git config :This command sets the author name and email address to be used with your commits. Git config is also used in other scenarios.
+Git init :This command is used to create a local repository.The init command will initialize an empty repository
+Git add :Moves changes from the working directory to the staging area.
+(git add.-staging all the files , git add <filename> -stage the given particular file)
+git commit:Takes the staged snapshot and commits it to the project history
+git branch :This command is for creating a branch
+ git banch -b <branchname> -creating new branch
+ git branch - which branch we have curently working on.
+
+Follow https://www.atlassian.com/git/tutorials/using-branches?section=git-checkout for more branch cmd
+
+git checkout:In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.
+git fetch: Fetching downloads a branch from another repository, along with all of its associated commits and files.
+       But, it doesn't try to integrate anything into your local repository
+git merge: A powerful way to integrate changes from divergent branches.
+
+git pull:Pulling is the automated version of git fetch. 
+	It downloads a branch from a remote repository, then immediately merges it into the current branch.
+pull request :at the time of merge.
+merge conflict: scenario 
+git push:It lets you move a local branch to another repository, which serves as a convenient way to publish contributions. 
+
+
