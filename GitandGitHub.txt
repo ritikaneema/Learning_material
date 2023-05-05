@@ -27,4 +27,8 @@ pull request :at the time of merge.
 merge conflict: scenario 
 git push:It lets you move a local branch to another repository, which serves as a convenient way to publish contributions. 
 
+remove file - git rm <filename>
+for restore deleted file : git restore --staged --worktree <filename>
+
+
 
